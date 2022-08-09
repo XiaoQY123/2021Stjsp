@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Jan 16 14:13:34 CST 2022
+org.eclipse.jst.jee.server\:projectSy5=D\:\\tomcat\\wtpwebapps\\projectSy5
+org.eclipse.jst.jee.server\:test=D\:\\tomcat\\wtpwebapps\\test

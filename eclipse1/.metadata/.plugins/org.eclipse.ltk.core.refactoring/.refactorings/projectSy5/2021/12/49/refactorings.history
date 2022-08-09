@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;projectSy5/src/main/webapp/jisuanCheck.jsp&apos; to &apos;dingdan.jsp&apos;" description="Rename resource &apos;jisuanCheck.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/jisuanCheck.jsp" name="dingdan.jsp" stamp="1638546578729" updateReferences="true"/>
+</session>

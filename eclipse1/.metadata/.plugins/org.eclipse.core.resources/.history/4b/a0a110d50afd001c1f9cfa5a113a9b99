@@ -1,0 +1,13 @@
+package cn.cedut.demo_loggerx;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoLoggerxApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DemoLoggerxApplication.class, args);
+	}
+
+}

@@ -1,0 +1,22 @@
+package cn.cedut.demo_loggerx;
+
+//package cn.tedu.demo_logger.controller;
+
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+//能够接收到前端数据
+//做了一个标记，表示当前类专用于接收前端访问
+@RestController
+public class demo {
+	//localhost:8080中
+    //@RequestBody注解，接受请求体
+	//@RequestMapping("自定义地址名")，作用是使数据能够精准的传入方法中
+	@RequestMapping("/applog")
+	public void applog(@RequestBody String msg) {
+		System.out.println(msg);
+		//将数据分为启动日志和行为数据发送到kafka中
+	}
+	
+}

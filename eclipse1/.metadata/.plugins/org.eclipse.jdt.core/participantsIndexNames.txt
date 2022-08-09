@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+D:\eclipse1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\648987399.index
+\test\src
+D:\eclipse1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3463693529.index
+\porject01\src\main\java
+D:\eclipse1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3271193799.index
+\test\src
+D:\eclipse1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3117473032.index
+\test\src\main\java
+D:\eclipse1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1143344243.index
+\test\src\main\java
+D:\eclipse1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1247946674.index
+\projectSy5\src\main\java
